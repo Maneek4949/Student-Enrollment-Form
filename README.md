@@ -23,6 +23,9 @@ JsonPowerDB is used to perform CURD operation
 * **clear** : By this we can clear all field of form and with this except first field (roll-no) other field are disabled until user enter any roll number
 * **Alert** : This website uses disposable Alter prompt using bootstrap
 
+# Screenshot:
+<img src="./Screenshot%20(11).png">
+
 # HOW TO USE
 
 * **Initially**
